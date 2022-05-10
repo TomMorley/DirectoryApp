@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DirectoryApp</string>
+    <string name="contact_list_title">Contacts</string>
+    <string name="room_list_title">Rooms</string>
+</resources>
