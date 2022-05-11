@@ -5,6 +5,7 @@ import androidx.databinding.DataBindingUtil.setContentView
 import android.os.Bundle
 import dev.tommorley.directoryapp.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
